@@ -34,6 +34,9 @@ This repository contains my hands-on practice notebooks covering NumPy concepts 
 - Develop problem-solving skills through regular practice.
 - Gain introductory exposure to data visualization and image processing concepts.
 - Maintain a structured record of my learning journey.
+- ## Additional Resources
+
+This repository also includes handwritten notes prepared during my learning journey. The notes summarize important NumPy concepts, basic Matplotlib visualizations, and introductory image processing examples using scikit-image.
 
 ## Tools and Libraries Used
 
